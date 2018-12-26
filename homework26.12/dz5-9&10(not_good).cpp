@@ -46,6 +46,6 @@ int main()
     for(int i = 0; i < N; i++)
     W[i] = new int[M];
   
-    for(int i = 0; i < N*M; i++) cout << char[i];
+    for(int i = 0; i < N*M; i++) cout << С[i];
     return 0;
 }
